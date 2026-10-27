@@ -7,6 +7,9 @@ node_modules
 dist
 dist-ssr
 
+# Nested clone folder
+portfolio/
+
 # Environment variables
 .env
 .env.local
